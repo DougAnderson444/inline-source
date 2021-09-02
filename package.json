@@ -1,7 +1,7 @@
 {
   "name": "inline-source",
   "description": "Inline all flagged js, css, image source files",
-  "version": "7.2.4",
+  "version": "7.2.5",
   "main": "index.js",
   "module": "dist/index.js",
   "browser": "dist/index.js",
@@ -21,7 +21,6 @@
     "svg"
   ],
   "dependencies": {
-    "buffer": "^6.0.3",
     "csso": "^4.2.0",
     "htmlparser2": "^7.1.0",
     "superagent": "^6.1.0",
